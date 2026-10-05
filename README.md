@@ -21,32 +21,44 @@ This tool provides engineers and researchers with an interactive platform to sol
 
 ---
 
-## 📷 Application Screenshot
-
-![Thermal Tool Dashboard](1.png)
-
----
-
 ## 📊 Modules
-
-### Cooling Tower Module
-- Tower Height Calculation
-- Temperature Profile Analysis
-- Heat and Mass Transfer Modeling
-- Operating Line Analysis
-- Saturation Curve Plotting
-
-### Air Dehumidification Module
-- Humidity Ratio Calculations
-- Air Property Analysis
-- Mass Transfer Evaluation
-- Performance Prediction
-
-### Thermal Analysis
-- Process Parameter Evaluation
-- Engineering Calculations
-- Graphical Visualization
-
+ 
+### 🔥 Boiler Efficiency Module
+- Direct and Indirect Efficiency Calculation
+- Boiler Performance Monitoring
+- Efficiency Trend Analysis
+- Heat Loss Evaluation
+ 
+### 📈 Heat Rate Analysis Module
+- Gross Heat Rate Calculation
+- Net Heat Rate Calculation
+- Design vs Actual Comparison
+- Heat Rate Deviation Monitoring
+ 
+### 💨 Steam Pressure Profile Module
+- Steam Pressure Distribution Analysis
+- Pressure Drop Monitoring
+- Profile Visualization
+- Performance Assessment
+ 
+### 🌊 Condenser Performance Module
+- Condenser Vacuum Monitoring
+- Condenser Efficiency Analysis
+- Cooling Water Performance Evaluation
+- Heat Rejection Assessment
+ 
+---
+ 
+## 🚀 Key Features
+ 
+- Interactive Streamlit Dashboard
+- Thermal Power Plant Performance Analysis
+- Boiler Efficiency Evaluation
+- Heat Rate Monitoring
+- Steam Pressure Profile Analysis
+- Condenser Performance Assessment
+- Real-Time Engineering Calculations
+- Interactive Graphs and Visualizations
 ---
 
 ## ⚙️ Input Parameters
