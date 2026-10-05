@@ -154,7 +154,7 @@ This project is licensed under the MIT License.
 ## 📷 Screenshots
 
 ### Screenshot 1
-![Screenshot 1](1.png)
+![Screenshot 1](Screenshots/1.png)
 
 ### Screenshot 2
 ![Screenshot 2](2.png)
