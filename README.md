@@ -157,25 +157,25 @@ This project is licensed under the MIT License.
 ![Screenshot 1](Screenshots/1.png)
 
 ### Screenshot 2
-![Screenshot 2](2.png)
+![Screenshot 2](Screenshots/2.png)
 
 ### Screenshot 3
-![Screenshot 3](3.png)
+![Screenshot 3](Screenshots/3.png)
 
 ### Screenshot 4
-![Screenshot 4](4.png)
+![Screenshot 4](Screenshots/4.png)
 
 ### Screenshot 5
-![Screenshot 1](1.png)
+![Screenshot 5](Screenshots/5.png)
 
-### Screenshot 1
-![Screenshot 1](1.png)
+### Screenshot 6
+![Screenshot 6](Screenshots/6.png)
 
-### Screenshot 1
-![Screenshot 1](1.png)
+### Screenshot 7
+![Screenshot 7](Screenshots/7.png)
 
-### Screenshot 1
-![Screenshot 1](1.png)
+### Screenshot 8
+![Screenshot 8](Screenshots/8.png)
 
-### Screenshot 1
-![Screenshot 1](1.png)
+### Screenshot 9
+![Screenshot 9](Screenshots/9.png)
