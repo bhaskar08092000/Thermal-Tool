@@ -1,5 +1,4 @@
 # Thermal-Tool
-# 🔥 Thermal Tool
 
 A Streamlit-based Thermal Engineering application for modeling, simulation, and performance analysis of thermal systems.
 
